@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "title":"Air-Fryer",
+        "price":120,
+        "about":"STRESS-FREE COOKING: Meet the Pro 5.8-Quart Air Fryer, the highly-efficient tool that brings healthier fried flavors to your countertop.",
+        "rate":4,
+        "image":"https://m.media-amazon.com/images/I/81+zemshw9L._AC_SX679_.jpg"
+    },
+    {
+        "id":2,
+        "title":"Mattress Protector",
+        "price":31,
+        "about":"Premium Cotton Terry Surface With Membrane Back Coating (Waterproof, Noiseless and Breathable)",
+        "rate":4,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71e1c7F18BL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+        "id":3,
+        "title":"Portable Kid Pool",
+        "price":34,
+        "about":"DURABLE & SAFE: This swimming pool is crafted with high-grade industrial strength PVC material to help it stand up to all your pup's doggy paddles. built-in 0.45cm thick high-density",
+        "rate":4,
+        "image":"https://m.media-amazon.com/images/I/61aSo4y2ufL._AC_SX679_.jpg"
+    },
+    {
+        "id":4,
+        "title":"Gaming Headphones",
+        "price":43,
+        "about":"Unrivaled Sound Quality: On the street, on the subway, or just on the go, you deserve music your way, every day.",
+        "rate":5,
+        "image":"https://m.media-amazon.com/images/I/61CGHv6kmWL._AC_SX679_.jpg"
+    },
+    {
+        "id":5,
+        "title":"Alarm Clock for Bedrooms",
+        "price":17,
+        "about":"Large Display: Large display shows time temperature date and alarm, can be read easily.",
+        "rate":3,
+        "image":"https://m.media-amazon.com/images/I/61ToAdvk61L._AC_SX466_.jpg"
+    },
+    {
+        "id":6,
+        "title":"Panama Roll up Hat",
+        "price":20,
+        "about":"Made of 90% paper straw and 10 % polyester. Straw material. Soft comfortable and breathable to wear.",
+        "rate":5,
+        "image":"https://m.media-amazon.com/images/I/71i6oUJssjL._AC_UX569_.jpg"
+    },
+    {
+        "id":7,
+        "title":"Ice Cube Trays",
+        "price":40,
+        "about":"【Premium Material】Food Grade Silicone ensure absolute trustworthiness. Foldable, Reusable & Soft make it easier to use/fill/release.Super easy to wash,Recyclable.",
+        "rate":2,
+        "image":"https://m.media-amazon.com/images/I/614mt-dUzML._AC_SX679_.jpg"
+    },
+    {
+        "id":8,
+        "title":"Mountain Bike",
+        "price":382,
+        "about":"Aluminum MTB frame with hydroformed tubing and a powerful front suspension fork is strong and reliable; 26-inch wheels fit riders 64 to 74 inches tall",
+        "rate":5,
+        "image":"https://pillibisiklet.com/wp-content/uploads/2022/05/750w-donusum-kiti-elektrikli-bisiklet-pilli-bisiklet-1.jpg"
+    }
+]
